@@ -16,7 +16,7 @@ Biometric identification. Face detection apps can be used for biometric authenti
 
 Photography and social media. Face detection apps enhance photography and social media platforms by automatically detecting and tagging people in photos, suggesting filters or effects, and providing a personalized user experience.
 
-Accessibility and Assistive Technology: Face detection can be used in assistive technologies to enable facial gestures as input commands, allowing individuals with physical disabilities to interact with devices or control their environment.
+Accessibility and Assistive Technology. Face detection can be used in assistive technologies to enable facial gestures as input commands, allowing individuals with physical disabilities to interact with devices or control their environment.
 
 ## What Can This Be Improved?
 Features (A lot of features)
