@@ -18,7 +18,7 @@ Photography and social media. Face detection apps enhance photography and social
 
 Accessibility and Assistive Technology: Face detection can be used in assistive technologies to enable facial gestures as input commands, allowing individuals with physical disabilities to interact with devices or control their environment.
 
-## What Can Be Improved?
+## What Can This Be Improved?
 Features (A lot of features)
 You can improve this program to make a more specified uses. You can add a biometric identification for security uses, or you can manipulate the image to make the person face more attractive for social media uses, and many more. Unfortunately, the program I made didn’t do all of that. It’s just the bare bone.
 
